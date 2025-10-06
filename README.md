@@ -37,7 +37,7 @@ Skills Demonstrated
 - Data preprocessing and feature engineering
 - Experimental reproducibility and statistical validation
 
-Applications
+Applications - 
 This project demonstrates strong fundamentals in:
 - Computer Vision and Image Classification
 - Neural Network Design and Optimization
